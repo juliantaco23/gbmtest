@@ -1,0 +1,7 @@
+Palindromes
+
+Write a function called palindrome that takes a string as input and returns True if the string is a palindrome, i.e., if it reads the same forwards and backwards. Otherwise, it should return False.
+
+Example of usage:
+print(palindrome("asna"))
+# Expected output: False
